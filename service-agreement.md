@@ -1,29 +1,31 @@
-my company: Studio MDS, LLC
-my nickname: MDS
-my name: Matt D. Smith
-my title: Design Director
-my email: mds@email.com
-my address: 123 Detach Instance Road
-my citystate: Athens, GA 30606
-day: Wednesday
-date: 12 August, 2020
-project type: Website UX/UI Design
-fname: Bob
-lname: Loblaw
-entity: Acme, Inc.
+my company:       Studio MDS, LLC
+my nickname:      MDS
+my name:          Matt D. Smith
+my title:         Design Director
+my email:         mds@email.com
+my address:       123 Detach Instance Road
+my citystate:     Athens, GA 30606
+my state:         Georgia
+jurisdiction:     Clarke County, Georgia
+day:              Wednesday
+date:             12 August, 2020
+project type:     Website UX/UI Design
+fname:            Bob
+lname:            Loblaw
+entity:           Acme, Inc.
 entity address: 1 Apple Park Way
 entity citystate: Cupertino, CA 94024
-email: bob@acme.com
-title: CEO
-total: $100,000 USD
-terms: net 14 days
+email:            bob@acme.com
+title:            CEO
+total:            $100,000 USD
+terms:            net 14 days
 
 # SERVICE AGREEMENT
 
 Hey, [%fname]! This is our Service Agreement (“Agreement”), dated **[%day]**, **[%date]**, between [%my company] (“[%my nickname]”, “Us,” “We,” “Our”), and [%entity] (“You”, “Your”, “Customer”). Intending to be legally bound, we agree to the following terms:
 
 ## Definitions
-[%my nickname] agrees to provide services (“Services”) and final work product (“Product”) as defined as defined in Exhibit A also referred to as “Statement(s) of Work” (or “SOWs”), attached to this Agreement.
+[%my nickname] agrees to provide services (“Services”) and final work product (“Product”) as defined in Exhibit A also referred to as “Statement(s) of Work” (or “SOWs”), attached to this Agreement.
 
 
 ## 1. Intellectual Property
@@ -63,7 +65,7 @@ Both parties agree that, neither party shall solicit or hire any employee or con
 No party shall assign, transfer or otherwise dispose of its rights or obligations under this Agreement, in whole or in part, without the prior written consent of the other parties, which consent shall not be unreasonably withheld. [%my nickname] may subcontract with third parties but such action shall not relieve [%my nickname] of any of its obligations hereunder.
 
 ## 6. Choice of Law
-This Agreement shall be governed by and construed in accordance with the laws of the State of Georgia in the United States without reference to its conflicts of laws. Each party submits to the exclusive jurisdiction of the courts of Clarke County, Georgia and expressly waives any and all rights to bring any action in or before any other court.  Each of the parties expressly waives any and all objections such party may have to venue, including, without limitation, the inconvenience of such forum, in any of such courts.
+This Agreement shall be governed by and construed in accordance with the laws of the State of [%my state] in the United States without reference to its conflicts of laws. Each party submits to the exclusive jurisdiction of the courts of [%jurisdiction] and expressly waives any and all rights to bring any action in or before any other court.  Each of the parties expressly waives any and all objections such party may have to venue, including, without limitation, the inconvenience of such forum, in any of such courts.
 
 ## 7. Dispute Resolution
 In the event that at any time during the term of this Agreement a disagreement, dispute, controversy or a claim should arise out of, or relating to, the interpretation or performance under this Agreement or the breach or invalidity thereof, the parties will attempt in good faith to resolve their differences. If the parties are unable to resolve their differences, any dispute which is not resolved shall be referred to the court(s) listed above. Each party shall pay the fees of its respective attorneys, the expenses of its witnesses and any other expenses connected with presenting its claim. Notwithstanding the foregoing, either party shall be entitled to elect to seek injunctive or other equitable relief in a court of proper jurisdiction to enforce its Intellectual Property rights.
@@ -201,5 +203,5 @@ Really looking forward to working with You. Thanks!
 +++
 # Exhibit B: Reference List for Design Deliverables
 
-- (this is where I would put jointly reviewed list of screens, sections, etc. make sure that you and your client are hyper aware of whats in this list)
+- (this is where I would put jointly reviewed list of screens, sections, etc. make sure that you and your client are hyper aware of what's in this list)
 
